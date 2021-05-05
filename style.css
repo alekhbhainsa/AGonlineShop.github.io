@@ -272,10 +272,10 @@ ul{
 @media only screen and (max-width: 800px) {
     nav ul{
         position: absolute;
-        top: 70px;
-        left: 0;
-        /* background: #333; */
-        width: 100%;
+        top: 100px;
+        left: 270px;
+        background:linear-gradient( -120deg,rgb(150, 147, 79), rgb(44, 16, 27));
+        width: 30%;
         /* background: transparent */
         overflow: hidden;
         transition: max-height 0.5s;
