@@ -274,6 +274,7 @@ ul{
         position: absolute;
         top: 100px;
         left: 270px;
+        right: 20px;
         background:linear-gradient( -120deg,rgb(150, 147, 79), rgb(44, 16, 27));
         width: 30%;
         /* background: transparent */
